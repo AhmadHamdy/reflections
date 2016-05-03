@@ -7,3 +7,15 @@ Why might you want to always pull changes manually rather than having Git automa
 An automatic pull may cause confusion. Imagine working on a project, going for a break
 , only to come back to find out that all your code was erased or heavily modified by
 someone else.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+Fork: It is when you tell github to create a copy from a remote repository made by
+ someone else and create an identical remote repository for you.
+Clones: When you create a copy from a remote repo to a local repo, or from a local
+repo to a local repo
+
+Branches: A branch is a course of commits. Creating different branches from the 
+main master branch allows you to test experimental stuff without messing up the main
+stable code.
