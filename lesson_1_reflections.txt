@@ -41,3 +41,8 @@ Why do you think some version control systems, like Git, allow saving multiple
  could break something?
  
  You don't have to worry if things get messed up because you can always go back
+
+ 
+ Now that you have your workspace set up, what do you want to try using Git for?
+ 
+ I want to use git to make android apps
