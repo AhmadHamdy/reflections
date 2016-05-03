@@ -32,3 +32,7 @@ Why do you think some version control systems, like Git, allow saving multiple
  comiting multiple files at once is just not required.
  
  How can you use the commands git log and git diff to view the history of files?
+
+ use git log to show the list of the history of the files with the id of each 
+ file
+ then use git diff to compare
