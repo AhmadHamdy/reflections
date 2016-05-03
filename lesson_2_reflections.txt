@@ -9,3 +9,22 @@ How is the staging area different from the working directory and the repository?
  directory, just before the repository. It allows you to only keep specific
  files
  
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+Pros:
+	manual:
+	Be sure that the correct code is put in the new merged code
+	
+	auto:
+	less hassel
+cons:
+
+	manual:
+	Gotta talk to other devs to solve conflicts
+	auto:
+	may resolve a conflict incorrectly
+
+
+
