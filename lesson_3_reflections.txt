@@ -25,3 +25,10 @@ locally?
 
 It's like a screenshot of the remote repo. It helps to show if you are not in sync
 with the remote repo
+
+How would you collaborate without using Git or GitHub? What would be easier
+and what would be harder?
+
+I would upload the files somewhere and send the links to every person working 
+on the project. Keeping in sync would be hard, and keeping track of files
+or restoring to older versions would be harder.
